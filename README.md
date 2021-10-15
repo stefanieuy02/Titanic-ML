@@ -1,4 +1,4 @@
-# Titanic-ML
+# Titanic-MachineLearning
 
 Welcome! This is my attempt at the infamous Kaggle Titanic Machine Learning Challenge.
 
